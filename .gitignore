@@ -1,0 +1,14 @@
+# File sistem operasi
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Konfigurasi editor lokal
+.vscode/
+.idea/
+
+# File arsip dan log
+*.log
+*.zip
+temp_*
